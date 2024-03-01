@@ -1,0 +1,23 @@
+{
+    "image": "  660d421d-img_001_146.jpg",
+    "id": 146,
+    "label": [
+        {
+            "x": 12.162204089230864,
+            "y": 8.808290155440414,
+            "width": 69.78788536915806,
+            "height": 54.231433506044894,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 167,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 563,
+    "created_at": "2024-02-26T01:18:10.521368Z",
+    "updated_at": "2024-02-26T01:18:10.521423Z",
+    "lead_time": 16.353
+}

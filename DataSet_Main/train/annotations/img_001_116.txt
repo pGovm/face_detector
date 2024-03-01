@@ -1,0 +1,23 @@
+{
+    "image": "  f952fbb5-img_001_116.jpg",
+    "id": 116,
+    "label": [
+        {
+            "x": 29.584476277557652,
+            "y": 7.9447322970639025,
+            "width": 28.162145687290458,
+            "height": 20.207253886010363,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 170,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 533,
+    "created_at": "2024-02-26T01:11:34.587863Z",
+    "updated_at": "2024-02-26T01:11:34.587927Z",
+    "lead_time": 5.845
+}

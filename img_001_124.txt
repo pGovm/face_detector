@@ -1,0 +1,35 @@
+{
+    "image": "  62d269f4-img_001_124.jpg",
+    "id": 124,
+    "label": [
+        {
+            "x": 5.825242718446602,
+            "y": 0.7292948630293085,
+            "width": 14.805825242718443,
+            "height": 31.177355394502925,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 426
+        },
+        {
+            "x": 77.5485436893204,
+            "y": 5.10506404120516,
+            "width": 15.655339805825236,
+            "height": 28.442499658143035,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 426
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 541,
+    "created_at": "2024-02-26T01:13:08.973930Z",
+    "updated_at": "2024-02-26T01:13:08.973979Z",
+    "lead_time": 17.963
+}

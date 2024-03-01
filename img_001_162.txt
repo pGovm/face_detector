@@ -1,0 +1,23 @@
+{
+    "image": "  93fe2128-img_001_162.jpg",
+    "id": 161,
+    "label": [
+        {
+            "x": 57.28155339805825,
+            "y": 1.640913441815944,
+            "width": 15.291262135922338,
+            "height": 34.2768585623775,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 426
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 578,
+    "created_at": "2024-02-26T01:21:10.617328Z",
+    "updated_at": "2024-02-26T01:21:10.617377Z",
+    "lead_time": 13.108
+}

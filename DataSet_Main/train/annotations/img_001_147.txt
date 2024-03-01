@@ -1,0 +1,23 @@
+{
+    "image": "  da290d4e-img_001_147.jpg",
+    "id": 147,
+    "label": [
+        {
+            "x": 28.862022644406064,
+            "y": 1.8998272884283247,
+            "width": 29.476108232584917,
+            "height": 22.10708117443869,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 270,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 564,
+    "created_at": "2024-02-26T01:18:18.811366Z",
+    "updated_at": "2024-02-26T01:18:18.811413Z",
+    "lead_time": 5.458
+}

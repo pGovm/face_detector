@@ -1,0 +1,23 @@
+{
+    "image": "  6991518c-img_001_224.jpg",
+    "id": 223,
+    "label": [
+        {
+            "x": 64.34150491067976,
+            "y": 2.5906735751295336,
+            "width": 19.30245147320393,
+            "height": 21.58894645941278,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 335,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 639,
+    "created_at": "2024-02-26T01:32:45.522356Z",
+    "updated_at": "2024-02-26T01:32:45.522404Z",
+    "lead_time": 6.152
+}

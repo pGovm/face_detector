@@ -1,0 +1,23 @@
+{
+    "image": "  7742bbd6-img_001_225.jpg",
+    "id": 224,
+    "label": [
+        {
+            "x": 53.691275167785236,
+            "y": 3.281519861830743,
+            "width": 16.413394999478385,
+            "height": 14.680483592400693,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 298,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 640,
+    "created_at": "2024-02-26T01:32:54.880266Z",
+    "updated_at": "2024-02-26T01:32:54.880304Z",
+    "lead_time": 3.985
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  b181a890-img_001_120.jpg",
+    "id": 120,
+    "label": [
+        {
+            "x": 13.725422914593555,
+            "y": 4.317789291882556,
+            "width": 72.19572453076209,
+            "height": 64.24870466321242,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 302,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 537,
+    "created_at": "2024-02-26T01:12:17.475504Z",
+    "updated_at": "2024-02-26T01:12:17.475559Z",
+    "lead_time": 7.392
+}

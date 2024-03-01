@@ -1,0 +1,23 @@
+{
+    "image": "  68c00aae-img_001_79.jpg",
+    "id": 79,
+    "label": [
+        {
+            "x": 43.18712883174937,
+            "y": 5.526770293609672,
+            "width": 20.171233825607487,
+            "height": 40.58721934369603,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 374,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 496,
+    "created_at": "2024-02-26T00:55:10.113764Z",
+    "updated_at": "2024-02-26T00:55:10.113830Z",
+    "lead_time": 10.551
+}

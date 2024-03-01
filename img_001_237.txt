@@ -1,0 +1,23 @@
+{
+    "image": "  156bd195-img_001_237.jpg",
+    "id": 236,
+    "label": [
+        {
+            "x": 67.78421213044803,
+            "y": 7.9447322970639025,
+            "width": 22.919841511734234,
+            "height": 19.343696027633854,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 340,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 652,
+    "created_at": "2024-02-26T01:34:40.793648Z",
+    "updated_at": "2024-02-26T01:34:40.793683Z",
+    "lead_time": 4.688
+}

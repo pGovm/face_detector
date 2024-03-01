@@ -1,0 +1,23 @@
+{
+    "image": "  c5345a4f-img_001_184.jpg",
+    "id": 183,
+    "label": [
+        {
+            "x": 36.16504854368932,
+            "y": 1.6413337577590323,
+            "width": 26.941747572815537,
+            "height": 53.069791500875375,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 600,
+    "created_at": "2024-02-26T01:24:52.307685Z",
+    "updated_at": "2024-02-26T01:24:52.307724Z",
+    "lead_time": 6.325
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  6dc30ac2-img_001_278.jpg",
+    "id": 278,
+    "label": [
+        {
+            "x": 26.34855605092983,
+            "y": 5.354058721934371,
+            "width": 29.883118448005792,
+            "height": 19.516407599309154,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 258,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 694,
+    "created_at": "2024-02-27T19:42:44.195361Z",
+    "updated_at": "2024-02-27T21:05:17.896642Z",
+    "lead_time": 34.118
+}

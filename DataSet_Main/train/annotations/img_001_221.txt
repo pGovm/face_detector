@@ -1,0 +1,23 @@
+{
+    "image": "  ec1067ec-img_001_221.jpg",
+    "id": 220,
+    "label": [
+        {
+            "x": 49.36532689437765,
+            "y": 2.936096718480138,
+            "width": 15.02422992437581,
+            "height": 13.471502590673575,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 309,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 636,
+    "created_at": "2024-02-26T01:32:18.687452Z",
+    "updated_at": "2024-02-26T01:32:18.687494Z",
+    "lead_time": 5.468
+}

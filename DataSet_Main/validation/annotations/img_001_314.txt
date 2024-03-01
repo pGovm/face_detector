@@ -1,0 +1,23 @@
+{
+    "image": "  d4d2e135-img_001_314.jpg",
+    "id": 314,
+    "label": [
+        {
+            "x": 57.12119297358777,
+            "y": 6.0449050086355784,
+            "width": 18.703399469227847,
+            "height": 15.716753022452504,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 328,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 730,
+    "created_at": "2024-02-27T21:17:24.852572Z",
+    "updated_at": "2024-02-27T21:17:24.852630Z",
+    "lead_time": 5.856
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  cb59dcea-img_001_298.jpg",
+    "id": 298,
+    "label": [
+        {
+            "x": 34.49594881246305,
+            "y": 13.471502590673575,
+            "width": 23.368223389087873,
+            "height": 19.516407599309154,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 298,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 714,
+    "created_at": "2024-02-27T21:13:12.210751Z",
+    "updated_at": "2024-02-27T21:13:12.210816Z",
+    "lead_time": 9.316
+}

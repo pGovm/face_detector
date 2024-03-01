@@ -1,0 +1,23 @@
+{
+    "image": "  17664834-img_001_241.jpg",
+    "id": 241,
+    "label": [
+        {
+            "x": 64.30184668526637,
+            "y": 2.5906735751295336,
+            "width": 14.879766175102958,
+            "height": 11.053540587219343,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 182,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 657,
+    "created_at": "2024-02-26T01:35:28.478042Z",
+    "updated_at": "2024-02-26T01:35:28.478109Z",
+    "lead_time": 4.515
+}

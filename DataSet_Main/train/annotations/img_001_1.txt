@@ -1,0 +1,23 @@
+{
+    "image": "  5f106884-img_001_1.jpg",
+    "id": 1,
+    "label": [
+        {
+            "x": 63.212435233160626,
+            "y": 4.317789291882556,
+            "width": 23.1433506044905,
+            "height": 32.29706390328152,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 225,
+            "original_height": 225
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 418,
+    "created_at": "2024-02-25T08:42:21.500601Z",
+    "updated_at": "2024-02-25T08:42:21.500641Z",
+    "lead_time": 4573.948
+}

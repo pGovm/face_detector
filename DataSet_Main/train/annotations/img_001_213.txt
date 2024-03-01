@@ -1,0 +1,23 @@
+{
+    "image": "  3f1b690e-img_001_213.jpg",
+    "id": 212,
+    "label": [
+        {
+            "x": 30.397236614853195,
+            "y": 20.03454231433506,
+            "width": 17.443868739205524,
+            "height": 20.72538860103627,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 628,
+    "created_at": "2024-02-26T01:30:59.760135Z",
+    "updated_at": "2024-02-26T01:30:59.760175Z",
+    "lead_time": 9.333
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  2ac43548-img_001_188.jpg",
+    "id": 187,
+    "label": [
+        {
+            "x": 39.07766990291262,
+            "y": 11.489336304313227,
+            "width": 34.34466019417475,
+            "height": 53.43453233593294,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 604,
+    "created_at": "2024-02-26T01:25:30.249066Z",
+    "updated_at": "2024-02-26T01:25:30.249125Z",
+    "lead_time": 7.01
+}

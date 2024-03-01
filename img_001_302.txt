@@ -1,0 +1,23 @@
+{
+    "image": "  cc545add-img_001_302.jpg",
+    "id": 302,
+    "label": [
+        {
+            "x": 31.68933137632849,
+            "y": 7.772020725388601,
+            "width": 26.313462660701333,
+            "height": 20.034542314335063,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 293,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 718,
+    "created_at": "2024-02-27T21:14:21.771035Z",
+    "updated_at": "2024-02-27T21:14:21.771073Z",
+    "lead_time": 9.227
+}

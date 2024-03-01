@@ -1,0 +1,23 @@
+{
+    "image": "  f1a441fe-img_001_236.jpg",
+    "id": 235,
+    "label": [
+        {
+            "x": 30.72101198627719,
+            "y": 4.8359240069084635,
+            "width": 20.330081461506964,
+            "height": 16.407599309153714,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 367,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 651,
+    "created_at": "2024-02-26T01:34:33.328725Z",
+    "updated_at": "2024-02-26T01:34:33.328762Z",
+    "lead_time": 6.336
+}

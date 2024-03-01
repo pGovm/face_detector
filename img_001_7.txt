@@ -1,0 +1,23 @@
+{
+    "image": "  69add33a-img_001_7.jpg",
+    "id": 7,
+    "label": [
+        {
+            "x": 38.406658739595706,
+            "y": 3.184983862748429,
+            "width": 23.305588585017816,
+            "height": 65.18600305758449,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 424,
+    "created_at": "2024-02-25T08:47:02.793179Z",
+    "updated_at": "2024-02-25T08:47:02.793232Z",
+    "lead_time": 26.614
+}

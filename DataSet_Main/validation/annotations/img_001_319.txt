@@ -1,0 +1,23 @@
+{
+    "image": "  3afaf508-img_001_319.jpg",
+    "id": 319,
+    "label": [
+        {
+            "x": 75.92852646360951,
+            "y": 8.808290155440414,
+            "width": 20.66082352751279,
+            "height": 16.925734024179622,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 321,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 735,
+    "created_at": "2024-02-27T21:18:21.086368Z",
+    "updated_at": "2024-02-27T21:18:21.086441Z",
+    "lead_time": 10.8
+}

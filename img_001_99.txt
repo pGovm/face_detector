@@ -1,0 +1,23 @@
+{
+    "image": "  a634b23f-img_001_99.jpg",
+    "id": 99,
+    "label": [
+        {
+            "x": 13.565708902496468,
+            "y": 7.772020725388601,
+            "width": 61.29690689276181,
+            "height": 56.82210708117444,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 330,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 516,
+    "created_at": "2024-02-26T01:07:51.840262Z",
+    "updated_at": "2024-02-26T01:07:51.840297Z",
+    "lead_time": 6.657
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  b7722f09-img_001_274.jpg",
+    "id": 274,
+    "label": [
+        {
+            "x": 41.18161631114999,
+            "y": 4.317789291882556,
+            "width": 36.60588116546665,
+            "height": 31.088082901554408,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 308,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 690,
+    "created_at": "2024-02-26T01:42:28.318704Z",
+    "updated_at": "2024-02-26T01:42:28.318742Z",
+    "lead_time": 5.525
+}

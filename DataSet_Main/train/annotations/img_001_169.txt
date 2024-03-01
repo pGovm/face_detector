@@ -1,0 +1,23 @@
+{
+    "image": "  be38caf6-img_001_169.jpg",
+    "id": 168,
+    "label": [
+        {
+            "x": 37.25728155339806,
+            "y": 1.8361679175560603,
+            "width": 26.577669902912625,
+            "height": 62.06247561339483,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 423
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 585,
+    "created_at": "2024-02-26T01:22:23.181011Z",
+    "updated_at": "2024-02-26T01:22:23.181052Z",
+    "lead_time": 4.755
+}

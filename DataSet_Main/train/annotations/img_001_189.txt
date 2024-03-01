@@ -1,0 +1,23 @@
+{
+    "image": "  4aaa8d54-img_001_189.jpg",
+    "id": 188,
+    "label": [
+        {
+            "x": 37.13592233009709,
+            "y": 4.559260438219534,
+            "width": 13.470873786407772,
+            "height": 24.984747201443042,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 605,
+    "created_at": "2024-02-26T01:25:37.414555Z",
+    "updated_at": "2024-02-26T01:25:37.414592Z",
+    "lead_time": 4.362
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  d487c953-img_001_187.jpg",
+    "id": 186,
+    "label": [
+        {
+            "x": 60.19417475728155,
+            "y": 5.288742108334659,
+            "width": 33.49514563106796,
+            "height": 67.11231365059155,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 603,
+    "created_at": "2024-02-26T01:25:21.353668Z",
+    "updated_at": "2024-02-26T01:25:21.353715Z",
+    "lead_time": 9.224
+}

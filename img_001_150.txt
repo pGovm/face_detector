@@ -1,0 +1,23 @@
+{
+    "image": "  18db3463-img_001_150.jpg",
+    "id": 150,
+    "label": [
+        {
+            "x": 34.85226738721804,
+            "y": 23.684210526315788,
+            "width": 29.7374295112782,
+            "height": 48.68421052631579,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 405
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 567,
+    "created_at": "2024-02-26T01:18:58.316076Z",
+    "updated_at": "2024-02-26T01:18:58.316133Z",
+    "lead_time": 6.179
+}

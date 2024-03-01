@@ -1,0 +1,23 @@
+{
+    "image": "  62ed297c-img_001_167.jpg",
+    "id": 166,
+    "label": [
+        {
+            "x": 30.942129460702038,
+            "y": 5.699481865284974,
+            "width": 28.023060643654677,
+            "height": 22.625215889464595,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 284,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 583,
+    "created_at": "2024-02-26T01:22:03.071993Z",
+    "updated_at": "2024-02-26T01:22:03.072057Z",
+    "lead_time": 5.924
+}

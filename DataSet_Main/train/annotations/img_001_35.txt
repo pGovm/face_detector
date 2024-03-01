@@ -1,0 +1,23 @@
+{
+    "image": "  bf4c3068-img_001_35.jpg",
+    "id": 35,
+    "label": [
+        {
+            "x": 25.540377871984088,
+            "y": 14.335060449050086,
+            "width": 52.33683990160674,
+            "height": 56.476683937823836,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 231,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 452,
+    "created_at": "2024-02-25T09:15:54.593765Z",
+    "updated_at": "2024-02-25T09:15:54.593804Z",
+    "lead_time": 33.724
+}

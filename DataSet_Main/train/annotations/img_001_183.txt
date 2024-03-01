@@ -1,0 +1,23 @@
+{
+    "image": "  9585c3ba-img_001_183.jpg",
+    "id": 182,
+    "label": [
+        {
+            "x": 42.80618311533888,
+            "y": 5.945303210463734,
+            "width": 29.607609988109388,
+            "height": 75.37795141837948,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 599,
+    "created_at": "2024-02-26T01:24:42.989768Z",
+    "updated_at": "2024-02-26T01:24:42.989813Z",
+    "lead_time": 9.027
+}

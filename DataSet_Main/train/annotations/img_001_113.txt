@@ -1,0 +1,23 @@
+{
+    "image": "  3b230ff8-img_001_113.jpg",
+    "id": 113,
+    "label": [
+        {
+            "x": 46.41413887351812,
+            "y": 0.3454231433506045,
+            "width": 26.292402367657665,
+            "height": 25.38860103626943,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 309,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 530,
+    "created_at": "2024-02-26T01:10:50.795245Z",
+    "updated_at": "2024-02-26T01:10:50.795285Z",
+    "lead_time": 7.765
+}

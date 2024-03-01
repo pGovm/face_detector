@@ -1,0 +1,23 @@
+{
+    "image": "  86eaa3af-img_001_335.jpg",
+    "id": 335,
+    "label": [
+        {
+            "x": 41.45077720207254,
+            "y": 0.5181347150259068,
+            "width": 13.166717464187755,
+            "height": 13.644214162348877,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 340,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 751,
+    "created_at": "2024-02-27T21:22:25.801969Z",
+    "updated_at": "2024-02-27T21:22:25.802001Z",
+    "lead_time": 19.497
+}

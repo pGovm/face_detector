@@ -1,0 +1,23 @@
+{
+    "image": "  3df01ad8-img_001_12.jpg",
+    "id": 12,
+    "label": [
+        {
+            "x": 22.827306233641373,
+            "y": 3.799654576856649,
+            "width": 55.33892420276695,
+            "height": 61.139896373057,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 194,
+            "original_height": 259
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 429,
+    "created_at": "2024-02-25T08:50:30.309956Z",
+    "updated_at": "2024-02-25T08:50:30.310013Z",
+    "lead_time": 119.906
+}

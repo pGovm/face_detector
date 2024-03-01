@@ -1,0 +1,23 @@
+{
+    "image": "  f79664b4-img_001_64.jpg",
+    "id": 64,
+    "label": [
+        {
+            "x": 26.377767310409777,
+            "y": 6.563039723661486,
+            "width": 61.368683130341125,
+            "height": 57.51295336787565,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 308,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 481,
+    "created_at": "2024-02-26T00:44:36.604233Z",
+    "updated_at": "2024-02-26T00:44:36.604337Z",
+    "lead_time": 41.549
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  f5c4f208-img_001_306.jpg",
+    "id": 306,
+    "label": [
+        {
+            "x": 24.041450777202073,
+            "y": 1.2089810017271159,
+            "width": 21.278065630397236,
+            "height": 16.92573402417962,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 722,
+    "created_at": "2024-02-27T21:15:36.079423Z",
+    "updated_at": "2024-02-27T21:15:36.079463Z",
+    "lead_time": 5.649
+}

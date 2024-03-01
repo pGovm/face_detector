@@ -1,0 +1,23 @@
+{
+    "image": "  4cdd0f50-img_001_97.jpg",
+    "id": 97,
+    "label": [
+        {
+            "x": 12.024459692853474,
+            "y": 8.117443868739207,
+            "width": 62.73631144097465,
+            "height": 54.9222797927461,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 185,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 514,
+    "created_at": "2024-02-26T01:07:28.851400Z",
+    "updated_at": "2024-02-26T01:07:28.851442Z",
+    "lead_time": 6.904
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  33304bfa-img_001_102.jpg",
+    "id": 102,
+    "label": [
+        {
+            "x": 18.325242718446603,
+            "y": 23.33743561693787,
+            "width": 39.19902912621359,
+            "height": 61.8077396417339,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 426
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 519,
+    "created_at": "2024-02-26T01:08:23.381192Z",
+    "updated_at": "2024-02-26T01:08:23.381232Z",
+    "lead_time": 5.024
+}

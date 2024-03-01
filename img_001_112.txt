@@ -1,0 +1,23 @@
+{
+    "image": "  8fb38a14-img_001_112.jpg",
+    "id": 112,
+    "label": [
+        {
+            "x": 45.84344145277387,
+            "y": 0.17271157167530224,
+            "width": 26.83518524064811,
+            "height": 24.179620034542317,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 529,
+    "created_at": "2024-02-26T01:10:40.324359Z",
+    "updated_at": "2024-02-26T01:10:40.324537Z",
+    "lead_time": 6.984
+}

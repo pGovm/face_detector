@@ -1,0 +1,23 @@
+{
+    "image": "  c9830a5d-img_001_275.jpg",
+    "id": 275,
+    "label": [
+        {
+            "x": 46.94094636790996,
+            "y": 7.253886010362693,
+            "width": 26.078303537727763,
+            "height": 20.55267702936097,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 302,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 691,
+    "created_at": "2024-02-26T01:42:36.293714Z",
+    "updated_at": "2024-02-26T01:42:36.293752Z",
+    "lead_time": 5.57
+}

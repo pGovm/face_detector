@@ -1,0 +1,23 @@
+{
+    "image": "  73acb4c3-img_001_280.jpg",
+    "id": 280,
+    "label": [
+        {
+            "x": 14.749356305031938,
+            "y": 5.354058721934369,
+            "width": 60.52322069995867,
+            "height": 60.621761658031105,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 326,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 696,
+    "created_at": "2024-02-27T21:06:50.500227Z",
+    "updated_at": "2024-02-27T21:06:50.500271Z",
+    "lead_time": 11.969
+}

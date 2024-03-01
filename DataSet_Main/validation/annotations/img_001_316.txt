@@ -1,0 +1,23 @@
+{
+    "image": "  ae37a779-img_001_316.jpg",
+    "id": 316,
+    "label": [
+        {
+            "x": 66.5430537023238,
+            "y": 6.563039723661486,
+            "width": 26.062696033410162,
+            "height": 23.3160621761658,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 299,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 732,
+    "created_at": "2024-02-27T21:17:48.617256Z",
+    "updated_at": "2024-02-27T21:17:48.617304Z",
+    "lead_time": 8.579
+}

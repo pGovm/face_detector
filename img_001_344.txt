@@ -1,0 +1,23 @@
+{
+    "image": "  cbefe026-img_001_344.jpg",
+    "id": 344,
+    "label": [
+        {
+            "x": 40.47382285724254,
+            "y": 14.335060449050086,
+            "width": 20.655606147834135,
+            "height": 27.63385146804836,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 594,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 760,
+    "created_at": "2024-02-27T21:25:37.464520Z",
+    "updated_at": "2024-02-27T21:25:37.464593Z",
+    "lead_time": 9.615
+}

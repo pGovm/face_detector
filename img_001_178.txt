@@ -1,0 +1,23 @@
+{
+    "image": "  7cda0251-img_001_178.jpg",
+    "id": 177,
+    "label": [
+        {
+            "x": 39.95243757431629,
+            "y": 12.925554175329982,
+            "width": 22.473246135552913,
+            "height": 46.83171802655791,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 282,
+            "original_height": 179
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 594,
+    "created_at": "2024-02-26T01:23:54.444353Z",
+    "updated_at": "2024-02-26T01:23:54.444422Z",
+    "lead_time": 7.152
+}

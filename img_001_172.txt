@@ -1,0 +1,23 @@
+{
+    "image": "  f3b1c4de-img_001_172.jpg",
+    "id": 171,
+    "label": [
+        {
+            "x": 21.1750518645696,
+            "y": 7.4265975820379975,
+            "width": 60.66366209849669,
+            "height": 50.431778929188255,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 169,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 588,
+    "created_at": "2024-02-26T01:22:51.905988Z",
+    "updated_at": "2024-02-26T01:22:51.906043Z",
+    "lead_time": 6.41
+}

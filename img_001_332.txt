@@ -1,0 +1,23 @@
+{
+    "image": "  6c03b520-img_001_332.jpg",
+    "id": 332,
+    "label": [
+        {
+            "x": 42.00345423143337,
+            "y": 17.789291882556125,
+            "width": 21.001727115716747,
+            "height": 19.689119170984444,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 748,
+    "created_at": "2024-02-27T21:21:33.885277Z",
+    "updated_at": "2024-02-27T21:21:33.885327Z",
+    "lead_time": 16.149
+}

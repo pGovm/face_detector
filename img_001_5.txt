@@ -1,0 +1,23 @@
+{
+    "image": "  3d82f037-img_001_5.jpg",
+    "id": 5,
+    "label": [
+        {
+            "x": 28.775267538644467,
+            "y": 2.9726516052318672,
+            "width": 30.202140309155755,
+            "height": 74.52862238831327,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 422,
+    "created_at": "2024-02-25T08:46:13.750388Z",
+    "updated_at": "2024-02-25T08:46:13.750443Z",
+    "lead_time": 20.457
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  3fdf7dcd-img_001_151.jpg",
+    "id": 151,
+    "label": [
+        {
+            "x": 37.86407766990291,
+            "y": 5.324886960912575,
+            "width": 23.786407766990287,
+            "height": 52.14716885859212,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 423
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 568,
+    "created_at": "2024-02-26T01:19:12.462556Z",
+    "updated_at": "2024-02-26T01:19:12.462600Z",
+    "lead_time": 6.432
+}

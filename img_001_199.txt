@@ -1,0 +1,23 @@
+{
+    "image": "  f19a2e28-img_001_199.jpg",
+    "id": 198,
+    "label": [
+        {
+            "x": 36.979785969084425,
+            "y": 14.178840382764282,
+            "width": 23.18668252080856,
+            "height": 51.63637393126098,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 299,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 615,
+    "created_at": "2024-02-26T01:27:34.688703Z",
+    "updated_at": "2024-02-26T01:27:34.688743Z",
+    "lead_time": 5.413
+}

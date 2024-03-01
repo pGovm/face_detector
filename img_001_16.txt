@@ -1,0 +1,23 @@
+{
+    "image": "  c58c9f33-img_001_16.jpg",
+    "id": 16,
+    "label": [
+        {
+            "x": 27.46730083234245,
+            "y": 1.2697468999490402,
+            "width": 38.16884661117717,
+            "height": 91.21015231300606,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 299,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 433,
+    "created_at": "2024-02-25T08:59:23.527184Z",
+    "updated_at": "2024-02-25T08:59:23.527220Z",
+    "lead_time": 42.526
+}

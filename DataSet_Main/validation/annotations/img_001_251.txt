@@ -1,0 +1,23 @@
+{
+    "image": "  c5483e12-img_001_251.jpg",
+    "id": 251,
+    "label": [
+        {
+            "x": 20.02990576207532,
+            "y": 12.607944732297064,
+            "width": 51.4657300831102,
+            "height": 43.523316062176164,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 298,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 667,
+    "created_at": "2024-02-26T01:37:06.279754Z",
+    "updated_at": "2024-02-26T01:37:06.279799Z",
+    "lead_time": 6.663
+}

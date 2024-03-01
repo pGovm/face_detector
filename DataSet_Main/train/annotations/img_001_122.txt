@@ -1,0 +1,23 @@
+{
+    "image": "  b14ceb8a-img_001_122.jpg",
+    "id": 122,
+    "label": [
+        {
+            "x": 43.689320388349515,
+            "y": 25.334845156261075,
+            "width": 11.165048543689316,
+            "height": 19.665509177237617,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 600,
+            "original_height": 411
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 539,
+    "created_at": "2024-02-26T01:12:36.378026Z",
+    "updated_at": "2024-02-26T01:12:36.378083Z",
+    "lead_time": 5.899
+}

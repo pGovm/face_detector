@@ -1,0 +1,23 @@
+{
+    "image": "  f45d61fe-img_001_217.jpg",
+    "id": 216,
+    "label": [
+        {
+            "x": 29.015544041450774,
+            "y": 1.7271157167530224,
+            "width": 21.07081174438688,
+            "height": 28.670120898100173,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 225,
+            "original_height": 225
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 632,
+    "created_at": "2024-02-26T01:31:36.070202Z",
+    "updated_at": "2024-02-26T01:31:36.070259Z",
+    "lead_time": 5.25
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  ebf96693-img_001_103.jpg",
+    "id": 103,
+    "label": [
+        {
+            "x": 17.610590314175326,
+            "y": 2.936096718480138,
+            "width": 60.938233150638425,
+            "height": 45.25043177892919,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 520,
+    "created_at": "2024-02-26T01:08:36.265738Z",
+    "updated_at": "2024-02-26T01:08:36.265792Z",
+    "lead_time": 7.483
+}

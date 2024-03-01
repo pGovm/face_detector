@@ -1,0 +1,23 @@
+{
+    "image": "  61dc65ca-img_001_179.jpg",
+    "id": 178,
+    "label": [
+        {
+            "x": 20.87267562662739,
+            "y": 2.4179620034542317,
+            "width": 55.884905710002364,
+            "height": 59.58549222797927,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 197,
+            "original_height": 256
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 595,
+    "created_at": "2024-02-26T01:24:02.912190Z",
+    "updated_at": "2024-02-26T01:24:02.912249Z",
+    "lead_time": 5.074
+}

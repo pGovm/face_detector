@@ -1,0 +1,23 @@
+{
+    "image": "  ed655283-img_001_154.jpg",
+    "id": 154,
+    "label": [
+        {
+            "x": 37.17791288548124,
+            "y": 10.535405872193436,
+            "width": 24.319386624337348,
+            "height": 16.23488773747841,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 571,
+    "created_at": "2024-02-26T01:19:52.911282Z",
+    "updated_at": "2024-02-26T01:19:52.911319Z",
+    "lead_time": 7.155
+}

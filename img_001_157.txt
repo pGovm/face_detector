@@ -1,0 +1,23 @@
+{
+    "image": "  d4bc59c0-img_001_157.jpg",
+    "id": 157,
+    "label": [
+        {
+            "x": 31.1540873238507,
+            "y": 11.226252158894647,
+            "width": 24.28962740503614,
+            "height": 18.652849740932638,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 314,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 574,
+    "created_at": "2024-02-26T01:20:19.636060Z",
+    "updated_at": "2024-02-26T01:20:19.636111Z",
+    "lead_time": 6.413
+}

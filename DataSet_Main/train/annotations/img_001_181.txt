@@ -1,0 +1,23 @@
+{
+    "image": "  ef571ffe-img_001_181.jpg",
+    "id": 180,
+    "label": [
+        {
+            "x": 25.921521997621877,
+            "y": 12.739935450993716,
+            "width": 40.07134363852556,
+            "height": 82.80958043145915,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 597,
+    "created_at": "2024-02-26T01:24:21.193028Z",
+    "updated_at": "2024-02-26T01:24:21.193077Z",
+    "lead_time": 5.481
+}

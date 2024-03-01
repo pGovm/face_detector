@@ -1,0 +1,23 @@
+{
+    "image": "  4add8595-img_001_175.jpg",
+    "id": 174,
+    "label": [
+        {
+            "x": 34.66181207113849,
+            "y": 1.2089810017271159,
+            "width": 40.2688699061756,
+            "height": 37.30569948186528,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 185,
+            "original_height": 273
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 591,
+    "created_at": "2024-02-26T01:23:21.861008Z",
+    "updated_at": "2024-02-26T01:23:21.861066Z",
+    "lead_time": 6.372
+}

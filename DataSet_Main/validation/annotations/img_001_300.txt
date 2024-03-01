@@ -1,0 +1,23 @@
+{
+    "image": "  1cb828e4-img_001_300.jpg",
+    "id": 300,
+    "label": [
+        {
+            "x": 22.069355779943056,
+            "y": 8.46286701208981,
+            "width": 48.66575889936162,
+            "height": 40.58721934369603,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 293,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 716,
+    "created_at": "2024-02-27T21:13:51.150637Z",
+    "updated_at": "2024-02-27T21:13:51.150692Z",
+    "lead_time": 10.516
+}

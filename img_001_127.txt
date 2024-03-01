@@ -1,0 +1,23 @@
+{
+    "image": "  3d939ad7-img_001_127.jpg",
+    "id": 127,
+    "label": [
+        {
+            "x": 33.37595047439606,
+            "y": 7.4265975820379975,
+            "width": 28.531054437790196,
+            "height": 22.107081174438683,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 308,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 544,
+    "created_at": "2024-02-26T01:13:46.878699Z",
+    "updated_at": "2024-02-26T01:13:46.878736Z",
+    "lead_time": 6.79
+}

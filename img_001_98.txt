@@ -1,0 +1,23 @@
+{
+    "image": "  fd3e502e-img_001_98.jpg",
+    "id": 98,
+    "label": [
+        {
+            "x": 16.63148467984392,
+            "y": 7.772020725388601,
+            "width": 59.61747585236358,
+            "height": 57.340241796200345,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 189,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 515,
+    "created_at": "2024-02-26T01:07:42.409828Z",
+    "updated_at": "2024-02-26T01:07:42.409877Z",
+    "lead_time": 7.928
+}

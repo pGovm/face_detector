@@ -1,0 +1,23 @@
+{
+    "image": "  72c1adcc-img_001_52.jpg",
+    "id": 52,
+    "label": [
+        {
+            "x": 30.569948186528496,
+            "y": 0.3454231433506045,
+            "width": 65.80310880829016,
+            "height": 83.76511226252158,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 344,
+            "original_height": 344
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 469,
+    "created_at": "2024-02-26T00:31:29.912452Z",
+    "updated_at": "2024-02-26T00:31:29.912500Z",
+    "lead_time": 12.076
+}

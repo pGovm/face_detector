@@ -1,0 +1,23 @@
+{
+    "image": "  ccfd2d8a-img_001_8.jpg",
+    "id": 8,
+    "label": [
+        {
+            "x": 65.29126213592234,
+            "y": 4.194519603161971,
+            "width": 19.053398058252426,
+            "height": 43.586529789378744,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 425,
+    "created_at": "2024-02-25T08:47:18.410532Z",
+    "updated_at": "2024-02-25T08:47:18.410569Z",
+    "lead_time": 12.539
+}

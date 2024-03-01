@@ -1,0 +1,23 @@
+{
+    "image": "  74d802d6-img_001_84.jpg",
+    "id": 84,
+    "label": [
+        {
+            "x": 50.259067357512954,
+            "y": 0.17271157167530224,
+            "width": 26.42487046632123,
+            "height": 49.222797927461144,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 600,
+            "original_height": 450
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 501,
+    "created_at": "2024-02-26T00:56:37.385366Z",
+    "updated_at": "2024-02-26T00:56:37.385424Z",
+    "lead_time": 15.118
+}

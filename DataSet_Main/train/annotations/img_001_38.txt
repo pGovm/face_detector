@@ -1,0 +1,23 @@
+{
+    "image": "  5a6f4afc-img_001_38.jpg",
+    "id": 38,
+    "label": [
+        {
+            "x": 8.199054831179184,
+            "y": 0.5181347150259067,
+            "width": 70.60297215737627,
+            "height": 66.66666666666663,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 364,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 455,
+    "created_at": "2024-02-25T09:29:38.996318Z",
+    "updated_at": "2024-02-25T09:29:38.996373Z",
+    "lead_time": 703.953
+}

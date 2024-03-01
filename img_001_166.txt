@@ -1,0 +1,23 @@
+{
+    "image": "  f347cf6e-img_001_166.jpg",
+    "id": 165,
+    "label": [
+        {
+            "x": 17.83639503846758,
+            "y": 6.0449050086355784,
+            "width": 60.29203956665096,
+            "height": 58.03108808290155,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 330,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 582,
+    "created_at": "2024-02-26T01:21:54.280247Z",
+    "updated_at": "2024-02-26T01:21:54.280284Z",
+    "lead_time": 7.916
+}

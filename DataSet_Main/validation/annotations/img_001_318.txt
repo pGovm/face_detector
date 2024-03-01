@@ -1,0 +1,23 @@
+{
+    "image": "  da600fe5-img_001_318.jpg",
+    "id": 318,
+    "label": [
+        {
+            "x": 69.3358455016486,
+            "y": 7.772020725388601,
+            "width": 21.10221384832785,
+            "height": 18.134715025906733,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 330,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 734,
+    "created_at": "2024-02-27T21:18:07.811879Z",
+    "updated_at": "2024-02-27T21:18:07.811950Z",
+    "lead_time": 6.859
+}

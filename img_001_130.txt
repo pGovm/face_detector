@@ -1,0 +1,23 @@
+{
+    "image": "  bc1fd011-img_001_130.jpg",
+    "id": 130,
+    "label": [
+        {
+            "x": 11.956246401842257,
+            "y": 16.753022452504318,
+            "width": 26.62982153137594,
+            "height": 45.9412780656304,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 600,
+            "original_height": 472
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 547,
+    "created_at": "2024-02-26T01:14:33.731982Z",
+    "updated_at": "2024-02-26T01:14:33.732022Z",
+    "lead_time": 19.174
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  f4c2dff6-img_001_182.jpg",
+    "id": 181,
+    "label": [
+        {
+            "x": 39.55403404885271,
+            "y": 3.9723661485319512,
+            "width": 24.981495188749072,
+            "height": 32.81519861830742,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 224,
+            "original_height": 225
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 598,
+    "created_at": "2024-02-26T01:24:31.367915Z",
+    "updated_at": "2024-02-26T01:24:31.367952Z",
+    "lead_time": 7.277
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  972a288a-img_001_133.jpg",
+    "id": 133,
+    "label": [
+        {
+            "x": 30.18958339572913,
+            "y": 5.181347150259067,
+            "width": 52.55223776293589,
+            "height": 37.13298791018998,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 550,
+    "created_at": "2024-02-26T01:15:12.490510Z",
+    "updated_at": "2024-02-26T01:15:12.490572Z",
+    "lead_time": 11.261
+}

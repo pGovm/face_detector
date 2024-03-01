@@ -1,0 +1,23 @@
+{
+    "image": "  fac9ef4c-img_001_202.jpg",
+    "id": 201,
+    "label": [
+        {
+            "x": 44.90500863557859,
+            "y": 19.516407599309154,
+            "width": 15.716753022452501,
+            "height": 15.889464594127809,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 618,
+    "created_at": "2024-02-26T01:28:32.409013Z",
+    "updated_at": "2024-02-26T01:28:32.409062Z",
+    "lead_time": 5.931
+}

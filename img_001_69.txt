@@ -1,0 +1,23 @@
+{
+    "image": "  428ed555-img_001_69.jpg",
+    "id": 69,
+    "label": [
+        {
+            "x": 37.25728155339806,
+            "y": 2.5706350845784844,
+            "width": 22.936893203883493,
+            "height": 42.96632927081181,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 423
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 486,
+    "created_at": "2024-02-26T00:48:14.867544Z",
+    "updated_at": "2024-02-26T00:48:14.867616Z",
+    "lead_time": 15.176
+}

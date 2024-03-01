@@ -1,0 +1,23 @@
+{
+    "image": "  ad20dac4-img_001_345.jpg",
+    "id": 345,
+    "label": [
+        {
+            "x": 42.01282163871081,
+            "y": 16.234887737478413,
+            "width": 20.655133046456484,
+            "height": 23.316062176165797,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 590,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 761,
+    "created_at": "2024-02-27T21:25:55.749470Z",
+    "updated_at": "2024-02-27T21:25:55.749538Z",
+    "lead_time": 15.344
+}

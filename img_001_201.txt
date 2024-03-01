@@ -1,0 +1,23 @@
+{
+    "image": "  f90b0ede-img_001_201.jpg",
+    "id": 200,
+    "label": [
+        {
+            "x": 41.10535405872193,
+            "y": 1.381692573402418,
+            "width": 23.316062176165815,
+            "height": 36.44214162348877,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 617,
+    "created_at": "2024-02-26T01:28:24.086576Z",
+    "updated_at": "2024-02-26T01:28:24.086633Z",
+    "lead_time": 8.949
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  4cef8141-img_001_231.jpg",
+    "id": 230,
+    "label": [
+        {
+            "x": 74.09883558972645,
+            "y": 7.9447322970639025,
+            "width": 23.139636377142622,
+            "height": 16.753022452504318,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 186,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 646,
+    "created_at": "2024-02-26T01:33:51.377574Z",
+    "updated_at": "2024-02-26T01:33:51.377610Z",
+    "lead_time": 4.464
+}

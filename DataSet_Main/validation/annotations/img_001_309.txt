@@ -1,0 +1,23 @@
+{
+    "image": "  fe094b20-img_001_309.jpg",
+    "id": 309,
+    "label": [
+        {
+            "x": 71.78864421416236,
+            "y": 33.85146804835924,
+            "width": 9.512629533678748,
+            "height": 12.262521588946463,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 470
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 725,
+    "created_at": "2024-02-27T21:16:08.206215Z",
+    "updated_at": "2024-02-27T21:16:08.206277Z",
+    "lead_time": 10.401
+}

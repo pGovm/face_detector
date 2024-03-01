@@ -1,0 +1,23 @@
+{
+    "image": "  62fd5109-img_001_4.jpg",
+    "id": 4,
+    "label": [
+        {
+            "x": 14.268727705112964,
+            "y": 1.0616612875828095,
+            "width": 22.47324613555292,
+            "height": 53.932393409206725,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 421,
+    "created_at": "2024-02-25T08:44:08.452415Z",
+    "updated_at": "2024-02-25T08:44:08.452473Z",
+    "lead_time": 15.602
+}

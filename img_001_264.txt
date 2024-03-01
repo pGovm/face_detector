@@ -1,0 +1,23 @@
+{
+    "image": "  a392aab2-img_001_264.jpg",
+    "id": 264,
+    "label": [
+        {
+            "x": 29.700382969137195,
+            "y": 5.354058721934369,
+            "width": 43.68551475557558,
+            "height": 76.6839378238342,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 575,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 680,
+    "created_at": "2024-02-26T01:40:01.163612Z",
+    "updated_at": "2024-02-26T01:40:01.163651Z",
+    "lead_time": 7.848
+}

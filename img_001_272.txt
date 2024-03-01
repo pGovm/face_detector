@@ -1,0 +1,23 @@
+{
+    "image": "  f065df9b-img_001_272.jpg",
+    "id": 272,
+    "label": [
+        {
+            "x": 42.17567155695775,
+            "y": 5.181347150259067,
+            "width": 21.08783577847887,
+            "height": 37.82383419689119,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 629,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 688,
+    "created_at": "2024-02-26T01:42:12.022142Z",
+    "updated_at": "2024-02-26T01:42:12.022182Z",
+    "lead_time": 5.075
+}

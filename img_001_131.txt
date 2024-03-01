@@ -1,0 +1,23 @@
+{
+    "image": "  70daa725-img_001_131.jpg",
+    "id": 131,
+    "label": [
+        {
+            "x": 36.89837970589116,
+            "y": 7.772020725388601,
+            "width": 50.87503868539538,
+            "height": 45.07772020725388,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 548,
+    "created_at": "2024-02-26T01:14:43.397182Z",
+    "updated_at": "2024-02-26T01:14:43.397238Z",
+    "lead_time": 7.31
+}

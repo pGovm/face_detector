@@ -1,0 +1,23 @@
+{
+    "image": "  bde7d28d-img_001_118.jpg",
+    "id": 118,
+    "label": [
+        {
+            "x": 44.800582771808415,
+            "y": 11.245674740484427,
+            "width": 12.99095489589024,
+            "height": 25.43252595155709,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 399,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 535,
+    "created_at": "2024-02-26T01:11:52.954943Z",
+    "updated_at": "2024-02-26T01:11:52.955029Z",
+    "lead_time": 5.463
+}

@@ -1,0 +1,35 @@
+{
+    "image": "  b760cdd6-img_001_190.jpg",
+    "id": 189,
+    "label": [
+        {
+            "x": 62.37864077669902,
+            "y": 8.571409623852725,
+            "width": 12.864077669902919,
+            "height": 22.06682052098254,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        },
+        {
+            "x": 20.99514563106796,
+            "y": 3.100297097989283,
+            "width": 8.859223300970871,
+            "height": 14.95437423736007,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 606,
+    "created_at": "2024-02-26T01:25:50.926393Z",
+    "updated_at": "2024-02-26T01:25:50.926432Z",
+    "lead_time": 11.157
+}

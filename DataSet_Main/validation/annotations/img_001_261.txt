@@ -1,0 +1,23 @@
+{
+    "image": "  08ab1a36-img_001_261.jpg",
+    "id": 261,
+    "label": [
+        {
+            "x": 17.962003454231436,
+            "y": 1.8998272884283252,
+            "width": 61.89982728842831,
+            "height": 47.84110535405871,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 677,
+    "created_at": "2024-02-26T01:39:25.841022Z",
+    "updated_at": "2024-02-26T01:39:25.841059Z",
+    "lead_time": 13.144
+}

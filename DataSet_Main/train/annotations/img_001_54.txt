@@ -1,0 +1,23 @@
+{
+    "image": "  1cb046fd-img_001_54.jpg",
+    "id": 54,
+    "label": [
+        {
+            "x": 36.33931334671099,
+            "y": 11.57167530224525,
+            "width": 25.1579861631076,
+            "height": 19.17098445595855,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 471,
+    "created_at": "2024-02-26T00:32:33.776145Z",
+    "updated_at": "2024-02-26T00:32:33.776183Z",
+    "lead_time": 27.063
+}

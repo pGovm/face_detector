@@ -1,0 +1,23 @@
+{
+    "image": "  be916e1a-img_001_347.jpg",
+    "id": 347,
+    "label": [
+        {
+            "x": 16.652397260273972,
+            "y": 9.197651663405088,
+            "width": 23.313356164383563,
+            "height": 50.88062622309198,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 389
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 763,
+    "created_at": "2024-02-27T21:26:17.798712Z",
+    "updated_at": "2024-02-27T21:26:17.798749Z",
+    "lead_time": 8.448
+}

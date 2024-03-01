@@ -1,0 +1,23 @@
+{
+    "image": "  cc241f9d-img_001_32.jpg",
+    "id": 32,
+    "label": [
+        {
+            "x": 42.38979157234603,
+            "y": 24.52504317789292,
+            "width": 24.14608380703254,
+            "height": 18.825561312607945,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 309,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 449,
+    "created_at": "2024-02-25T09:11:57.884554Z",
+    "updated_at": "2024-02-25T09:11:57.884608Z",
+    "lead_time": 8.199
+}

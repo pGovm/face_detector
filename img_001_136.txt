@@ -1,0 +1,23 @@
+{
+    "image": "  6435fc69-img_001_136.jpg",
+    "id": 136,
+    "label": [
+        {
+            "x": 57.58383499555742,
+            "y": 3.454231433506045,
+            "width": 19.567322571305915,
+            "height": 15.025906735751295,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 553,
+    "created_at": "2024-02-26T01:15:49.740873Z",
+    "updated_at": "2024-02-26T01:15:49.740930Z",
+    "lead_time": 7.222
+}

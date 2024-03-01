@@ -1,0 +1,23 @@
+{
+    "image": "  a21e99c2-img_001_90.jpg",
+    "id": 90,
+    "label": [
+        {
+            "x": 49.422080510163404,
+            "y": 6.0449050086355784,
+            "width": 23.913909924272623,
+            "height": 22.452504317789295,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 312,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 507,
+    "created_at": "2024-02-26T01:06:07.944209Z",
+    "updated_at": "2024-02-26T01:06:07.944262Z",
+    "lead_time": 8.731
+}

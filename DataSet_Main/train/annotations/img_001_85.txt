@@ -1,0 +1,23 @@
+{
+    "image": "  b908fa20-img_001_85.jpg",
+    "id": 85,
+    "label": [
+        {
+            "x": 44.12780656303973,
+            "y": 5.872193436960276,
+            "width": 22.3160621761658,
+            "height": 43.69602763385147,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 600,
+            "original_height": 438
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 502,
+    "created_at": "2024-02-26T01:03:41.886085Z",
+    "updated_at": "2024-02-26T01:03:41.886146Z",
+    "lead_time": 53.634
+}

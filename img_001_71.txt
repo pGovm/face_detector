@@ -1,0 +1,23 @@
+{
+    "image": "  afd26ac2-img_001_71.jpg",
+    "id": 71,
+    "label": [
+        {
+            "x": 21.06293564665575,
+            "y": 14.507772020725387,
+            "width": 57.788054210055535,
+            "height": 54.23143350604491,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 307,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 488,
+    "created_at": "2024-02-26T00:49:39.833204Z",
+    "updated_at": "2024-02-26T00:49:39.833251Z",
+    "lead_time": 50.411
+}

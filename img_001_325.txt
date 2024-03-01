@@ -1,0 +1,23 @@
+{
+    "image": "  fb7799f5-img_001_325.jpg",
+    "id": 325,
+    "label": [
+        {
+            "x": 39.24006908462867,
+            "y": 3.6269430051813467,
+            "width": 18.238341968911918,
+            "height": 15.716753022452508,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 741,
+    "created_at": "2024-02-27T21:19:50.051955Z",
+    "updated_at": "2024-02-27T21:19:50.052009Z",
+    "lead_time": 17.149
+}

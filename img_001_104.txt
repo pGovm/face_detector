@@ -1,0 +1,23 @@
+{
+    "image": "  bc6add18-img_001_104.jpg",
+    "id": 104,
+    "label": [
+        {
+            "x": 15.560809564532093,
+            "y": 1.7271157167530222,
+            "width": 64.12126699867534,
+            "height": 48.53195164075994,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 309,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 521,
+    "created_at": "2024-02-26T01:08:53.136101Z",
+    "updated_at": "2024-02-26T01:08:53.136142Z",
+    "lead_time": 9.963
+}

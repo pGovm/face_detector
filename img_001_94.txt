@@ -1,0 +1,23 @@
+{
+    "image": "  bdd462c8-img_001_94.jpg",
+    "id": 94,
+    "label": [
+        {
+            "x": 29.53963432791376,
+            "y": 5.872193436960276,
+            "width": 29.53963432791376,
+            "height": 20.89810017271157,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 261,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 511,
+    "created_at": "2024-02-26T01:06:55.899351Z",
+    "updated_at": "2024-02-26T01:06:55.899402Z",
+    "lead_time": 6.074
+}

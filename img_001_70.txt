@@ -1,0 +1,23 @@
+{
+    "image": "  d43dd152-img_001_70.jpg",
+    "id": 70,
+    "label": [
+        {
+            "x": 22.773828172068924,
+            "y": 14.507772020725387,
+            "width": 56.5128328714303,
+            "height": 52.50431778929189,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 172,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 487,
+    "created_at": "2024-02-26T00:48:45.879478Z",
+    "updated_at": "2024-02-26T00:48:45.879546Z",
+    "lead_time": 25.822
+}

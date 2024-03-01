@@ -1,0 +1,23 @@
+{
+    "image": "  02f18cff-img_001_207.jpg",
+    "id": 206,
+    "label": [
+        {
+            "x": 16.580310880829018,
+            "y": 20.898100172711572,
+            "width": 11.053540587219342,
+            "height": 12.435233160621756,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 622,
+    "created_at": "2024-02-26T01:29:53.155104Z",
+    "updated_at": "2024-02-26T01:29:53.155164Z",
+    "lead_time": 6.368
+}

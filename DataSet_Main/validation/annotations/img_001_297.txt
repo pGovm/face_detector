@@ -1,0 +1,23 @@
+{
+    "image": "  d892fccd-img_001_297.jpg",
+    "id": 297,
+    "label": [
+        {
+            "x": 36.16510762596933,
+            "y": 11.744386873920552,
+            "width": 25.037382202594152,
+            "height": 19.861830742659762,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 298,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 713,
+    "created_at": "2024-02-27T21:13:00.172973Z",
+    "updated_at": "2024-02-27T21:13:00.173031Z",
+    "lead_time": 8.028
+}

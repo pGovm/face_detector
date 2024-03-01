@@ -1,0 +1,23 @@
+{
+    "image": "  86909213-img_001_10.jpg",
+    "id": 10,
+    "label": [
+        {
+            "x": 67.83980582524272,
+            "y": 4.01214918563319,
+            "width": 15.533980582524265,
+            "height": 30.82060056236405,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 427,
+    "created_at": "2024-02-25T08:48:04.804447Z",
+    "updated_at": "2024-02-25T08:48:04.804502Z",
+    "lead_time": 10.847
+}

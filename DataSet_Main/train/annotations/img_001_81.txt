@@ -1,0 +1,23 @@
+{
+    "image": "  76203b51-img_001_81.jpg",
+    "id": 81,
+    "label": [
+        {
+            "x": 41.83889309347771,
+            "y": 4.145077720207254,
+            "width": 36.6769517377889,
+            "height": 30.7426597582038,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 178,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 498,
+    "created_at": "2024-02-26T00:55:44.844135Z",
+    "updated_at": "2024-02-26T00:55:44.844195Z",
+    "lead_time": 9.781
+}

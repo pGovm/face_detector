@@ -1,0 +1,23 @@
+{
+    "image": "  721f589e-img_001_292.jpg",
+    "id": 292,
+    "label": [
+        {
+            "x": 16.580310880829018,
+            "y": 4.8359240069084635,
+            "width": 59.58549222797927,
+            "height": 56.13126079447323,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 320,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 708,
+    "created_at": "2024-02-27T21:11:23.955845Z",
+    "updated_at": "2024-02-27T21:11:23.955880Z",
+    "lead_time": 9.151
+}

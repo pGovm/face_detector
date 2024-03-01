@@ -1,0 +1,23 @@
+{
+    "image": "  0f8ecda7-img_001_59.jpg",
+    "id": 59,
+    "label": [
+        {
+            "x": 29.814398744656888,
+            "y": 2.5906735751295336,
+            "width": 43.36639817404637,
+            "height": 80.48359240069081,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 339,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 476,
+    "created_at": "2024-02-26T00:35:10.063945Z",
+    "updated_at": "2024-02-26T00:35:10.063982Z",
+    "lead_time": 37.756
+}

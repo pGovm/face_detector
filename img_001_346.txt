@@ -1,0 +1,23 @@
+{
+    "image": "  30f6c2ad-img_001_346.jpg",
+    "id": 346,
+    "label": [
+        {
+            "x": 41.10707258182318,
+            "y": 12.953367875647666,
+            "width": 20.484795366861718,
+            "height": 27.633851468048363,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 603,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 762,
+    "created_at": "2024-02-27T21:26:05.768930Z",
+    "updated_at": "2024-02-27T21:26:05.768985Z",
+    "lead_time": 7.691
+}
