@@ -3,7 +3,7 @@ import re
 import json
 
 # specify the directory you want to change the files in
-directory = 'C:/Users/17048/objsmallpp/DataSet_Main/train/annotations/'
+directory = 'C:/Users/17048/objsmallpp/DataSet_Main/validation/annotations/'
 
 for filename in os.listdir(directory):
     # print(filename)
@@ -13,7 +13,7 @@ for filename in os.listdir(directory):
             text = text[1:-1]
             print(text)
 
-        with open(filename, 'w') as f:
+        with open(directory + filename, 'w') as f:
             f.write(text)
         # find the part in parentheses
         # data = json.load(open(filename))
