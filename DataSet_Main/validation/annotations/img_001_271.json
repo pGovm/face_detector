@@ -1,0 +1,23 @@
+{
+    "image": "  50800b1a-img_001_271.jpg",
+    "id": 271,
+    "label": [
+        {
+            "x": 43.932038834951456,
+            "y": 6.884377758164166,
+            "width": 34.22330097087378,
+            "height": 75.72815533980582,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 440
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 687,
+    "created_at": "2024-02-26T01:42:03.937977Z",
+    "updated_at": "2024-02-26T01:42:03.938014Z",
+    "lead_time": 5.802
+}

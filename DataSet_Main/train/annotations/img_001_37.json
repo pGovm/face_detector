@@ -1,0 +1,23 @@
+{
+    "image": "  b357a93a-img_001_37.jpg",
+    "id": 37,
+    "label": [
+        {
+            "x": 8.059873344847437,
+            "y": 0.17271157167530224,
+            "width": 70.40536421822615,
+            "height": 64.59412780656304,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 204,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 454,
+    "created_at": "2024-02-25T09:17:27.799336Z",
+    "updated_at": "2024-02-25T09:17:52.269972Z",
+    "lead_time": 29.47
+}

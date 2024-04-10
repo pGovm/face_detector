@@ -1,0 +1,23 @@
+{
+    "image": "  05111bb7-img_001_165.jpg",
+    "id": 164,
+    "label": [
+        {
+            "x": 15.684077860243661,
+            "y": 7.4265975820379975,
+            "width": 69.53274518041357,
+            "height": 60.96718480138169,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 185,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 581,
+    "created_at": "2024-02-26T01:21:43.662376Z",
+    "updated_at": "2024-02-26T01:21:43.662420Z",
+    "lead_time": 9.396
+}

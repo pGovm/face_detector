@@ -1,0 +1,23 @@
+{
+    "image": "  fc0320f6-img_001_338.jpg",
+    "id": 338,
+    "label": [
+        {
+            "x": 42.403668632005235,
+            "y": 6.217616580310881,
+            "width": 17.62849145375499,
+            "height": 17.78929188255613,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 348,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 754,
+    "created_at": "2024-02-27T21:24:13.492725Z",
+    "updated_at": "2024-02-27T21:24:13.492760Z",
+    "lead_time": 11.236
+}

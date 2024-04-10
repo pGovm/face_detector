@@ -1,0 +1,23 @@
+{
+    "image": "  31ce39ec-img_001_176.jpg",
+    "id": 175,
+    "label": [
+        {
+            "x": 34.95838287752676,
+            "y": 23.415859013278954,
+            "width": 29.726516052318672,
+            "height": 48.51765987551399,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 282,
+            "original_height": 179
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 592,
+    "created_at": "2024-02-26T01:23:35.447013Z",
+    "updated_at": "2024-02-26T01:23:35.447053Z",
+    "lead_time": 7.471
+}

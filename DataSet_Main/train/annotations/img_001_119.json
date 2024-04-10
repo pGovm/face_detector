@@ -1,0 +1,23 @@
+{
+    "image": "  11564c14-img_001_119.jpg",
+    "id": 119,
+    "label": [
+        {
+            "x": 21.137151288474083,
+            "y": 8.462867012089808,
+            "width": 49.41152249253681,
+            "height": 41.96891191709845,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 302,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 536,
+    "created_at": "2024-02-26T01:12:07.322214Z",
+    "updated_at": "2024-02-26T01:12:07.322305Z",
+    "lead_time": 11.33
+}

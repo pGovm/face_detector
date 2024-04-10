@@ -1,0 +1,23 @@
+{
+    "image": "  a14af391-img_001_277.jpg",
+    "id": 277,
+    "label": [
+        {
+            "x": 14.127917631574563,
+            "y": 6.390328151986183,
+            "width": 64.24204055112207,
+            "height": 55.78583765112263,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 311,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 693,
+    "created_at": "2024-02-26T01:42:59.555324Z",
+    "updated_at": "2024-02-26T01:42:59.555375Z",
+    "lead_time": 9.549
+}

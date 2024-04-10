@@ -1,0 +1,23 @@
+{
+    "image": "  a4590d19-img_001_88.jpg",
+    "id": 88,
+    "label": [
+        {
+            "x": 38.96373056994818,
+            "y": 2.936096718480138,
+            "width": 20.4559585492228,
+            "height": 35.75129533678757,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 600,
+            "original_height": 423
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 505,
+    "created_at": "2024-02-26T01:05:46.587250Z",
+    "updated_at": "2024-02-26T01:05:46.587306Z",
+    "lead_time": 5.832
+}

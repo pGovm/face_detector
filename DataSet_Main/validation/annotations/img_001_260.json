@@ -1,0 +1,23 @@
+{
+    "image": "  f2b726ba-img_001_260.jpg",
+    "id": 260,
+    "label": [
+        {
+            "x": 21.772125399068408,
+            "y": 14.680483592400693,
+            "width": 56.38422218733098,
+            "height": 52.84974093264252,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 297,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 676,
+    "created_at": "2024-02-26T01:39:08.728958Z",
+    "updated_at": "2024-02-26T01:39:08.729017Z",
+    "lead_time": 12.069
+}

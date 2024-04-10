@@ -1,0 +1,23 @@
+{
+    "image": "  ef60e864-img_001_42.jpg",
+    "id": 42,
+    "label": [
+        {
+            "x": 24.870466321243523,
+            "y": 5.008635578583765,
+            "width": 52.96488198042603,
+            "height": 59.41278065630398,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 360,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 459,
+    "created_at": "2024-02-25T09:31:53.825391Z",
+    "updated_at": "2024-02-25T09:31:53.825436Z",
+    "lead_time": 5.918
+}

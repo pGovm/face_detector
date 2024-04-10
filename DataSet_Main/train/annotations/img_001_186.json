@@ -1,0 +1,23 @@
+{
+    "image": "  e7a6e53c-img_001_186.jpg",
+    "id": 185,
+    "label": [
+        {
+            "x": 36.650485436893206,
+            "y": 3.465037933046846,
+            "width": 29.854368932038838,
+            "height": 62.00594195978566,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 275,
+            "original_height": 183
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 602,
+    "created_at": "2024-02-26T01:25:09.326332Z",
+    "updated_at": "2024-02-26T01:25:09.326376Z",
+    "lead_time": 6.322
+}

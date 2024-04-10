@@ -1,0 +1,23 @@
+{
+    "image": "  fff91ee3-img_001_20.jpg",
+    "id": 20,
+    "label": [
+        {
+            "x": 43.523316062176164,
+            "y": 0.5181347150259068,
+            "width": 28.670120898100166,
+            "height": 37.99654576856649,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 437,
+    "created_at": "2024-02-25T09:01:30.531751Z",
+    "updated_at": "2024-02-25T09:01:30.531788Z",
+    "lead_time": 82.044
+}

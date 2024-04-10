@@ -1,0 +1,23 @@
+{
+    "image": "  fbd7c0cd-img_001_138.jpg",
+    "id": 138,
+    "label": [
+        {
+            "x": 8.048694602344183,
+            "y": 1.0362694300518136,
+            "width": 78.3406274628167,
+            "height": 77.3747841105354,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 309,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 555,
+    "created_at": "2024-02-26T01:16:19.226116Z",
+    "updated_at": "2024-02-26T01:16:19.226175Z",
+    "lead_time": 10.981
+}

@@ -1,0 +1,23 @@
+{
+    "image": "  d1d288d9-img_001_108.jpg",
+    "id": 108,
+    "label": [
+        {
+            "x": 29.182300041688997,
+            "y": 3.6269430051813467,
+            "width": 27.514740039306766,
+            "height": 22.797927461139896,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 174,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 525,
+    "created_at": "2024-02-26T01:10:00.570237Z",
+    "updated_at": "2024-02-26T01:10:00.570287Z",
+    "lead_time": 7.093
+}

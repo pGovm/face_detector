@@ -1,0 +1,23 @@
+{
+    "image": "  27cbbcee-img_001_195.jpg",
+    "id": 194,
+    "label": [
+        {
+            "x": 47.81553398058252,
+            "y": 1.6563533553824814,
+            "width": 33.49514563106796,
+            "height": 68.27856609410007,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 276,
+            "original_height": 182
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 611,
+    "created_at": "2024-02-26T01:26:49.130127Z",
+    "updated_at": "2024-02-26T01:26:49.130176Z",
+    "lead_time": 6.194
+}

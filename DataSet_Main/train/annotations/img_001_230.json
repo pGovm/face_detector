@@ -1,0 +1,23 @@
+{
+    "image": "  cf62b69d-img_001_230.jpg",
+    "id": 229,
+    "label": [
+        {
+            "x": 68.36122941703061,
+            "y": 7.4265975820379975,
+            "width": 22.533886733761946,
+            "height": 18.134715025906736,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 191,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 645,
+    "created_at": "2024-02-26T01:33:43.433920Z",
+    "updated_at": "2024-02-26T01:33:43.433997Z",
+    "lead_time": 6.192
+}

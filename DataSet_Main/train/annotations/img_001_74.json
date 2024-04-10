@@ -1,0 +1,23 @@
+{
+    "image": "  f78dfa5f-img_001_74.jpg",
+    "id": 74,
+    "label": [
+        {
+            "x": 36.86575052854123,
+            "y": 12.896405919661733,
+            "width": 23.30866807610993,
+            "height": 56.23678646934461,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 360
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 491,
+    "created_at": "2024-02-26T00:52:31.249674Z",
+    "updated_at": "2024-02-26T00:52:31.249751Z",
+    "lead_time": 23.657
+}

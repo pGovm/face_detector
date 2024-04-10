@@ -1,0 +1,23 @@
+{
+    "image": "  2fa05a31-img_001_123.jpg",
+    "id": 123,
+    "label": [
+        {
+            "x": 44.1747572815534,
+            "y": 11.161505208702433,
+            "width": 13.592233009708735,
+            "height": 25.866345404294524,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 600,
+            "original_height": 411
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 540,
+    "created_at": "2024-02-26T01:12:48.142340Z",
+    "updated_at": "2024-02-26T01:12:48.142380Z",
+    "lead_time": 7.421
+}

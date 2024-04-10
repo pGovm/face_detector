@@ -1,0 +1,23 @@
+{
+    "image": "  c470db85-img_001_68.jpg",
+    "id": 68,
+    "label": [
+        {
+            "x": 20.456227710113723,
+            "y": 11.226252158894644,
+            "width": 66.48274005786962,
+            "height": 63.73056994818652,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 308,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 485,
+    "created_at": "2024-02-26T00:47:50.009161Z",
+    "updated_at": "2024-02-26T00:47:50.009210Z",
+    "lead_time": 69.212
+}

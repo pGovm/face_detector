@@ -1,0 +1,23 @@
+{
+    "image": "  e9546675-img_001_289.jpg",
+    "id": 289,
+    "label": [
+        {
+            "x": 29.222003851269513,
+            "y": 2.2452504317789286,
+            "width": 28.586742897981043,
+            "height": 20.725388601036286,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 261,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 705,
+    "created_at": "2024-02-27T21:10:34.085893Z",
+    "updated_at": "2024-02-27T21:10:34.085951Z",
+    "lead_time": 15.207
+}

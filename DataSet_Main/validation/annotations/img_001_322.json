@@ -1,0 +1,23 @@
+{
+    "image": "  5c595265-img_001_322.jpg",
+    "id": 322,
+    "label": [
+        {
+            "x": 65.26852537215231,
+            "y": 2.763385146804836,
+            "width": 13.685335965128697,
+            "height": 10.88082901554404,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 315,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 738,
+    "created_at": "2024-02-27T21:18:52.216861Z",
+    "updated_at": "2024-02-27T21:18:52.216927Z",
+    "lead_time": 8.203
+}

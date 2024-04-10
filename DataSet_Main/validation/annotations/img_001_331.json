@@ -1,0 +1,23 @@
+{
+    "image": "  5a4aeced-img_001_331.jpg",
+    "id": 331,
+    "label": [
+        {
+            "x": 48.35924006908463,
+            "y": 19.343696027633854,
+            "width": 17.409326424870464,
+            "height": 15.716753022452501,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 747,
+    "created_at": "2024-02-27T21:21:14.049344Z",
+    "updated_at": "2024-02-27T21:21:14.049413Z",
+    "lead_time": 11.697
+}

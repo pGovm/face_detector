@@ -1,0 +1,23 @@
+{
+    "image": "  a3c79c02-img_001_36.jpg",
+    "id": 36,
+    "label": [
+        {
+            "x": 28.238972303115112,
+            "y": 15.198618307426598,
+            "width": 47.199425135206674,
+            "height": 58.549222797927456,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 411,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 453,
+    "created_at": "2024-02-25T09:17:11.356877Z",
+    "updated_at": "2024-02-25T09:17:11.356955Z",
+    "lead_time": 25.097
+}

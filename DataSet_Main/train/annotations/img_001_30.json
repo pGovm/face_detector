@@ -1,0 +1,23 @@
+{
+    "image": "  2ec53408-img_001_30.jpg",
+    "id": 30,
+    "label": [
+        {
+            "x": 43.04810965687302,
+            "y": 24.006908462867013,
+            "width": 23.201253905977005,
+            "height": 16.925734024179622,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 173,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 447,
+    "created_at": "2024-02-25T09:11:26.915531Z",
+    "updated_at": "2024-02-25T09:11:26.915567Z",
+    "lead_time": 396.151
+}

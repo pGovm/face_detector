@@ -1,0 +1,23 @@
+{
+    "image": "  13560ca8-img_001_46.jpg",
+    "id": 46,
+    "label": [
+        {
+            "x": 36.89320388349515,
+            "y": 10.833390713580755,
+            "width": 21.84466019417475,
+            "height": 47.74036585645757,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 423
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 463,
+    "created_at": "2024-02-26T00:28:44.515899Z",
+    "updated_at": "2024-02-26T00:28:44.515940Z",
+    "lead_time": 23.114
+}

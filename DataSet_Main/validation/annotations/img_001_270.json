@@ -1,0 +1,23 @@
+{
+    "image": "  18ccb2eb-img_001_270.jpg",
+    "id": 270,
+    "label": [
+        {
+            "x": 44.54805308203662,
+            "y": 4.490500863557859,
+            "width": 22.669423461864795,
+            "height": 41.278065630397236,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 629,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 686,
+    "created_at": "2024-02-26T01:41:55.445040Z",
+    "updated_at": "2024-02-26T01:41:55.445091Z",
+    "lead_time": 5.692
+}

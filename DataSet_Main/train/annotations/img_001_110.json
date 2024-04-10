@@ -1,0 +1,23 @@
+{
+    "image": "  4561356e-img_001_110.jpg",
+    "id": 110,
+    "label": [
+        {
+            "x": 28.696691909127143,
+            "y": 2.936096718480138,
+            "width": 27.10243124750897,
+            "height": 24.179620034542314,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 312,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 527,
+    "created_at": "2024-02-26T01:10:20.893538Z",
+    "updated_at": "2024-02-26T01:10:20.893583Z",
+    "lead_time": 6.302
+}

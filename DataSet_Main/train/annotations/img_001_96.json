@@ -1,0 +1,23 @@
+{
+    "image": "  61abc5da-img_001_96.jpg",
+    "id": 96,
+    "label": [
+        {
+            "x": 27.737738127702677,
+            "y": 4.8359240069084635,
+            "width": 30.854337917332195,
+            "height": 22.279792746113987,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 266,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 513,
+    "created_at": "2024-02-26T01:07:17.370639Z",
+    "updated_at": "2024-02-26T01:07:17.370679Z",
+    "lead_time": 8.243
+}

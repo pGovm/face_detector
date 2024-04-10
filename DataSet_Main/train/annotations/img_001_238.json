@@ -1,0 +1,23 @@
+{
+    "image": "  2d6d229c-img_001_238.jpg",
+    "id": 237,
+    "label": [
+        {
+            "x": 74.41163618203383,
+            "y": 7.772020725388601,
+            "width": 22.473312940882693,
+            "height": 18.998272884283246,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 332,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 653,
+    "created_at": "2024-02-26T01:34:52.469016Z",
+    "updated_at": "2024-02-26T01:34:52.469075Z",
+    "lead_time": 7.715
+}

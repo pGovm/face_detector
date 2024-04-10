@@ -1,0 +1,23 @@
+{
+    "image": "  15fd133a-img_001_60.jpg",
+    "id": 60,
+    "label": [
+        {
+            "x": 29.80574280416587,
+            "y": 2.936096718480137,
+            "width": 42.97572218275077,
+            "height": 82.90155440414506,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 598,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 477,
+    "created_at": "2024-02-26T00:35:54.975341Z",
+    "updated_at": "2024-02-26T00:35:54.975388Z",
+    "lead_time": 35.925
+}

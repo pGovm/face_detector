@@ -1,0 +1,23 @@
+{
+    "image": "  60df8594-img_001_111.jpg",
+    "id": 111,
+    "label": [
+        {
+            "x": 37.93604651162791,
+            "y": 4.651162790697675,
+            "width": 27.8276955602537,
+            "height": 68.28752642706132,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 360
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 528,
+    "created_at": "2024-02-26T01:10:30.595123Z",
+    "updated_at": "2024-02-26T01:10:30.595183Z",
+    "lead_time": 6.642
+}

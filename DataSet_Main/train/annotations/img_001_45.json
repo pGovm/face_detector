@@ -1,0 +1,47 @@
+{
+    "image": "  7a5ab480-img_001_45.jpg",
+    "id": 45,
+    "label": [
+        {
+            "x": 17.83980582524272,
+            "y": 40.111217466611976,
+            "width": 16.504854368932026,
+            "height": 32.08897397328958,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 426
+        },
+        {
+            "x": 38.956310679611654,
+            "y": 22.790464469665896,
+            "width": 16.62621359223298,
+            "height": 29.536441952686985,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 426
+        },
+        {
+            "x": 68.81067961165047,
+            "y": 39.381922603582645,
+            "width": 15.41262135922331,
+            "height": 29.17179452117234,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 426
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 462,
+    "created_at": "2024-02-26T00:28:16.769702Z",
+    "updated_at": "2024-02-26T00:28:16.769752Z",
+    "lead_time": 53751.256
+}

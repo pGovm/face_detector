@@ -1,0 +1,23 @@
+{
+    "image": "  1b8bf2ca-img_001_305.jpg",
+    "id": 305,
+    "label": [
+        {
+            "x": 28.01110541300465,
+            "y": 5.699481865284974,
+            "width": 48.94869935807882,
+            "height": 43.17789291882556,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 293,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 721,
+    "created_at": "2024-02-27T21:15:00.200453Z",
+    "updated_at": "2024-02-27T21:15:26.183254Z",
+    "lead_time": 33.553
+}

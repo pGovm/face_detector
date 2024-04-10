@@ -1,0 +1,23 @@
+{
+    "image": "  f2d52239-img_001_22.jpg",
+    "id": 22,
+    "label": [
+        {
+            "x": 39.37823834196891,
+            "y": 24.179620034542314,
+            "width": 10.880829015544045,
+            "height": 13.298791018998276,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 439,
+    "created_at": "2024-02-25T09:02:01.501318Z",
+    "updated_at": "2024-02-25T09:02:01.501370Z",
+    "lead_time": 6.807
+}

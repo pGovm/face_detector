@@ -1,0 +1,23 @@
+{
+    "image": "  d43e1721-img_001_23.jpg",
+    "id": 23,
+    "label": [
+        {
+            "x": 65.28497409326425,
+            "y": 7.253886010362693,
+            "width": 34.54231433506045,
+            "height": 50.60449050086356,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 440,
+    "created_at": "2024-02-25T09:02:12.245303Z",
+    "updated_at": "2024-02-25T09:02:12.245355Z",
+    "lead_time": 7.693
+}

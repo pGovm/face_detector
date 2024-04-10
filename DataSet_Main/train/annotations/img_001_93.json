@@ -1,0 +1,23 @@
+{
+    "image": "  e258307b-img_001_93.jpg",
+    "id": 93,
+    "label": [
+        {
+            "x": 27.912044603632737,
+            "y": 5.354058721934369,
+            "width": 30.183955210905168,
+            "height": 21.070811744386873,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 149,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 510,
+    "created_at": "2024-02-26T01:06:47.716833Z",
+    "updated_at": "2024-02-26T01:06:47.716871Z",
+    "lead_time": 6.391
+}

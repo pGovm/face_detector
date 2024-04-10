@@ -1,0 +1,23 @@
+{
+    "image": "  bb0af34f-img_001_47.jpg",
+    "id": 47,
+    "label": [
+        {
+            "x": 11.533462389380531,
+            "y": 4.2477876106194685,
+            "width": 23.43113938053098,
+            "height": 44.424778761061944,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 439
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 464,
+    "created_at": "2024-02-26T00:29:41.572226Z",
+    "updated_at": "2024-02-26T00:29:41.572275Z",
+    "lead_time": 29.72
+}

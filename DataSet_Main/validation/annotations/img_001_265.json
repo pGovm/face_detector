@@ -1,0 +1,23 @@
+{
+    "image": "  6eaa5653-img_001_265.jpg",
+    "id": 265,
+    "label": [
+        {
+            "x": 45.87219343696028,
+            "y": 0.17271157167530224,
+            "width": 27.633851468048356,
+            "height": 24.870466321243526,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 681,
+    "created_at": "2024-02-26T01:40:30.853762Z",
+    "updated_at": "2024-02-26T01:40:30.853813Z",
+    "lead_time": 25.941
+}

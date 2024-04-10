@@ -1,0 +1,23 @@
+{
+    "image": "  82435c2e-img_001_337.jpg",
+    "id": 337,
+    "label": [
+        {
+            "x": 44.78589720683699,
+            "y": 7.081174438687392,
+            "width": 19.534274313620386,
+            "height": 19.689119170984455,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 348,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 753,
+    "created_at": "2024-02-27T21:23:59.703333Z",
+    "updated_at": "2024-02-27T21:23:59.703378Z",
+    "lead_time": 9.758
+}

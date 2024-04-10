@@ -1,0 +1,23 @@
+{
+    "image": "  2a201ed1-img_001_313.jpg",
+    "id": 313,
+    "label": [
+        {
+            "x": 55.55555555555555,
+            "y": 3.6269430051813467,
+            "width": 14.96833621185953,
+            "height": 13.471502590673577,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 288,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 729,
+    "created_at": "2024-02-27T21:17:16.756499Z",
+    "updated_at": "2024-02-27T21:17:16.756556Z",
+    "lead_time": 15.146
+}

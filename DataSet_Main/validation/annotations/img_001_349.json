@@ -1,0 +1,23 @@
+{
+    "image": "  d416ab6f-img_001_349.jpg",
+    "id": 349,
+    "label": [
+        {
+            "x": 57.64563106796117,
+            "y": 0,
+            "width": 28.640776699029136,
+            "height": 58.20608476029384,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 640,
+            "original_height": 419
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 765,
+    "created_at": "2024-02-27T21:27:00.711013Z",
+    "updated_at": "2024-02-27T21:27:00.711101Z",
+    "lead_time": 12.228
+}

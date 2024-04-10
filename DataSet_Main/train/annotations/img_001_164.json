@@ -1,0 +1,23 @@
+{
+    "image": "  a4090414-img_001_164.jpg",
+    "id": 163,
+    "label": [
+        {
+            "x": 31.327054887520227,
+            "y": 7.253886010362693,
+            "width": 27.677300920042143,
+            "height": 19.170984455958546,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 159,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 580,
+    "created_at": "2024-02-26T01:21:31.837461Z",
+    "updated_at": "2024-02-26T01:21:31.837517Z",
+    "lead_time": 5.997
+}

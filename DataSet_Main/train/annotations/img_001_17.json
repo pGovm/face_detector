@@ -1,0 +1,23 @@
+{
+    "image": "  9f8817ac-img_001_17.jpg",
+    "id": 17,
+    "label": [
+        {
+            "x": 36.16504854368932,
+            "y": 11.226394964259041,
+            "width": 21.966019417475728,
+            "height": 47.11405099754613,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 276,
+            "original_height": 182
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 434,
+    "created_at": "2024-02-25T08:59:33.534601Z",
+    "updated_at": "2024-02-25T08:59:33.534653Z",
+    "lead_time": 7.465
+}

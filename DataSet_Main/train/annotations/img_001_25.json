@@ -1,0 +1,23 @@
+{
+    "image": "  eeed7b1b-img_001_25.jpg",
+    "id": 25,
+    "label": [
+        {
+            "x": 41.968911917098445,
+            "y": 1.5544041450777202,
+            "width": 17.443868739205534,
+            "height": 23.316062176165804,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 442,
+    "created_at": "2024-02-25T09:02:34.679181Z",
+    "updated_at": "2024-02-25T09:02:34.679223Z",
+    "lead_time": 6.43
+}

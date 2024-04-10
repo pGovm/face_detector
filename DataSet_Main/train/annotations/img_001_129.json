@@ -1,0 +1,23 @@
+{
+    "image": "  bdfe79fb-img_001_129.jpg",
+    "id": 129,
+    "label": [
+        {
+            "x": 12.05476708968486,
+            "y": 15.544041450777199,
+            "width": 26.07193812420213,
+            "height": 45.077720207253854,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 345,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 546,
+    "created_at": "2024-02-26T01:14:11.762658Z",
+    "updated_at": "2024-02-26T01:14:11.762702Z",
+    "lead_time": 9.916
+}

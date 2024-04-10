@@ -1,0 +1,23 @@
+{
+    "image": "  f4c775fa-img_001_205.jpg",
+    "id": 204,
+    "label": [
+        {
+            "x": 43.523316062176164,
+            "y": 0.8635578583765112,
+            "width": 54.0587219343696,
+            "height": 67.01208981001727,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 100,
+            "original_height": 100
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 621,
+    "created_at": "2024-02-26T01:29:05.149636Z",
+    "updated_at": "2024-02-26T01:29:05.149675Z",
+    "lead_time": 9.208
+}

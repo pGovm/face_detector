@@ -1,0 +1,23 @@
+{
+    "image": "  15d60640-img_001_227.jpg",
+    "id": 226,
+    "label": [
+        {
+            "x": 50.60850704904205,
+            "y": 5.699481865284974,
+            "width": 16.307185604691334,
+            "height": 13.126079447322972,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 172,
+            "original_height": 280
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 642,
+    "created_at": "2024-02-26T01:33:14.450841Z",
+    "updated_at": "2024-02-26T01:33:14.450896Z",
+    "lead_time": 4.643
+}

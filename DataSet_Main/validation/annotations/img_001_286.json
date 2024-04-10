@@ -1,0 +1,23 @@
+{
+    "image": "  705995fa-img_001_286.jpg",
+    "id": 286,
+    "label": [
+        {
+            "x": 29.29188255613126,
+            "y": 8.117443868739207,
+            "width": 48.63557858376511,
+            "height": 46.97754749568221,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 300,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 702,
+    "created_at": "2024-02-27T21:09:49.526935Z",
+    "updated_at": "2024-02-27T21:09:49.527029Z",
+    "lead_time": 12.2
+}

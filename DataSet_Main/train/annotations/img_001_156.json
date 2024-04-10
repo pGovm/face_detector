@@ -1,0 +1,23 @@
+{
+    "image": "  452acced-img_001_156.jpg",
+    "id": 156,
+    "label": [
+        {
+            "x": 22.19622263078723,
+            "y": 1.7271157167530224,
+            "width": 24.335617583152267,
+            "height": 17.443868739205524,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 310,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 573,
+    "created_at": "2024-02-26T01:20:10.509122Z",
+    "updated_at": "2024-02-26T01:20:10.509165Z",
+    "lead_time": 6.639
+}

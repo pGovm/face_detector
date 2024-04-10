@@ -1,0 +1,23 @@
+{
+    "image": "  0280663f-img_001_168.jpg",
+    "id": 167,
+    "label": [
+        {
+            "x": 17.33396137541215,
+            "y": 6.563039723661486,
+            "width": 68.07976134401005,
+            "height": 64.93955094991364,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 330,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 584,
+    "created_at": "2024-02-26T01:22:15.355194Z",
+    "updated_at": "2024-02-26T01:22:15.355243Z",
+    "lead_time": 6.591
+}

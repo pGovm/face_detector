@@ -1,0 +1,23 @@
+{
+    "image": "  c23165ed-img_001_333.jpg",
+    "id": 333,
+    "label": [
+        {
+            "x": 32.19944431929113,
+            "y": 0.690846286701209,
+            "width": 23.548847337989038,
+            "height": 21.070811744386873,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 345,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 749,
+    "created_at": "2024-02-27T21:21:44.847235Z",
+    "updated_at": "2024-02-27T21:21:44.847287Z",
+    "lead_time": 8.367
+}

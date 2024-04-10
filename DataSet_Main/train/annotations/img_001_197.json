@@ -1,0 +1,23 @@
+{
+    "image": "  94fc5421-img_001_197.jpg",
+    "id": 196,
+    "label": [
+        {
+            "x": 57.431629013079665,
+            "y": 5.290612083121,
+            "width": 42.330558858501796,
+            "height": 92.05665024630541,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 299,
+            "original_height": 168
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 613,
+    "created_at": "2024-02-26T01:27:17.809322Z",
+    "updated_at": "2024-02-26T01:27:17.809383Z",
+    "lead_time": 11.997
+}

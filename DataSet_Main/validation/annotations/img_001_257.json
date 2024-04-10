@@ -1,0 +1,23 @@
+{
+    "image": "  6306abbb-img_001_257.jpg",
+    "id": 257,
+    "label": [
+        {
+            "x": 27.426078148739723,
+            "y": 13.298791018998275,
+            "width": 48.826730037529046,
+            "height": 58.203799654576855,
+            "rotation": 0,
+            "rectanglelabels": [
+                "Ye"
+            ],
+            "original_width": 399,
+            "original_height": 480
+        }
+    ],
+    "annotator": 1,
+    "annotation_id": 673,
+    "created_at": "2024-02-26T01:38:30.034990Z",
+    "updated_at": "2024-02-26T01:38:30.035048Z",
+    "lead_time": 5.743
+}
