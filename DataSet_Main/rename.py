@@ -19,4 +19,4 @@ for filename in os.listdir(directory):
             print(data["label"][0]["height"]/100)
         filename = filename[0:-4]+"txt"
         with open(directory+filename, "w") as f:
-            f.write("0 " + str(data["label"][0]["x"]/100.0) + " " + str(data["label"][0]["y"]/100.0) + " " + str(data["label"][0]["width"]/100.0) + " " + str(data["label"][0]["height"]/100.0))
+            f.write("0 " + str(data["label"][0]["x"]) + " " + str(data["label"][0]["y"]) + " " + str(data["label"][0]["width"]) + " " + str(data["label"][0]["height"]))
